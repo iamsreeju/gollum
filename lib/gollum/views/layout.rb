@@ -24,6 +24,10 @@ module Precious
         @base_url
       end
 
+      def domain
+	"http://www.sreejeshkp.com"
+      end
+
       def css # custom css
         @css
       end
