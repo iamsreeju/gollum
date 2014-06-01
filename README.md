@@ -15,6 +15,9 @@ $ cd  ../testing
 $ git init
 $ gollum
 
+```
+
 Check with http://localhost:4567
 
-For facebook share and like option, a different URL is hardcoded instead of localhost. Facebook integration loads the URL into the popup before sharing which will not work with localhost URLs.
+For facebook share and like option, a different URL is hardcoded instead of localhost. 
+Facebook integration loads the URL into the popup before sharing which will not work with localhost URLs.
